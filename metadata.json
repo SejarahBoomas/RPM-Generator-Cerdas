@@ -1,0 +1,5 @@
+{
+  "name": "RPM Generator Cerdas",
+  "description": "An educational assistant app that helps teachers automatically create In-depth Learning Plans (Rencana Pembelajaran Mendalam - RPM) based on user inputs, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
