@@ -1,4 +1,4 @@
-import { GoogleGenAI } from "@google/genai";
+const { GoogleGenAI } = require("@google/genai");
 
 // This function is duplicated from the original frontend service to keep the function self-contained.
 const buildPrompt = (data) => {
